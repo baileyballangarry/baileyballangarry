@@ -17,6 +17,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/Bailey.ballangarry
+
 [linkedin]: https://www.linkedin.com/in/bailey-ballangarry-73843017b/
 
