@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bailey, an <a href="https://www.linkedin.com/in/bailey-ballangarry-73843017b/">IT Data Processor</a>☺</h1>
+<h1>Hi, I'm Bailey, an <a href="https://www.linkedin.com/in/bailey-ballangarry-73843017b/">Aspiring Cyber Security Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
