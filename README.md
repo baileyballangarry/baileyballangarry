@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/baileyballangarry/osticket-postinstall)
   
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baileyballangarry/azure-NSGs.and.net.protocols)
 
 <h2>🤳Connect with me:</h2>
 
